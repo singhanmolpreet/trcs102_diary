@@ -16,7 +16,6 @@ The objective of this training is to build a strong foundation in Python program
 ## Learning Goals
 
 * Develop proficiency in Python programming.
-* Understand fundamental data structures and algorithms.
 * Learn Machine Learning concepts and workflows.
 * Apply theoretical knowledge through practical exercises and projects.
 * Maintain a structured record of daily learning progress.
