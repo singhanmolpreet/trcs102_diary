@@ -32,27 +32,6 @@ The objective of this training is to build a strong foundation in **Python progr
 * Apply theoretical knowledge through practical exercises and projects.
 * Maintain a structured record of daily learning progress.
 
-## Repository Structure
-
-```text
-TRCS102-Training-Diary/
-│
-├── README.md
-└── DayReport/
-    ├── Day1.md
-    ├── Day2.md
-    ├── Day3.md
-    ├── Day4.md
-    ├── Day5.md
-    ├── Day6.md
-    ├── Day7.md
-    ├── Day8.md
-    ├── Day9.md
-    ├── Day10.md
-    ├── Day11.md
-    └── Day12.md
-```
-
 ## Summary
 
 This repository serves as a structured record of my Machine Learning training journey under the **TRCS102 Training Program**. Each daily report contains the objectives, topics covered, practical activities, key learnings, and a brief summary, providing a comprehensive overview of the skills acquired throughout the training.
