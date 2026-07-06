@@ -1,4 +1,4 @@
-# Day 7 - Matplotlib
+# Day 7 - Introduction to Pandas
 
 ## Date
 
@@ -6,43 +6,46 @@ Day 7 of ML Training
 
 ## Objective
 
-To learn the basics of data visualization using the Matplotlib library.
+To understand the basics of the Pandas library and learn how to work with Series and DataFrames.
 
 ## Topics Covered
 
-### 1. Introduction to Matplotlib
+### 1. Introduction to Pandas
 
-* Importing Matplotlib
-* Creating basic plots
-* Understanding the plotting workflow
+* What is Pandas?
+* Importing the Pandas library
+* Applications in data analysis
 
-### 2. Types of Plots
+### 2. Series
 
-* Line Plot
-* Bar Chart
-* Scatter Plot
-* Histogram
+* Creating a Series
+* Accessing elements
+* Basic attributes
 
-### 3. Plot Customization
+### 3. DataFrame
 
-* Titles
-* Axis labels
-* Legends
-* Grid
-* Figure size
+* Creating a DataFrame
+* Understanding rows and columns
+* Viewing data
+
+### 4. Basic Operations
+
+* Selecting rows and columns
+* Accessing data
+* Adding and deleting columns
 
 ## Activities Performed
 
-* Created different types of plots.
-* Customized charts using titles and labels.
-* Visualized sample datasets.
+* Created Series and DataFrames.
+* Practiced selecting and accessing data.
+* Performed simple DataFrame operations.
 
 ## Key Learnings
 
-* Matplotlib is the foundation of data visualization in Python.
-* Different plot types are suitable for different kinds of data.
-* Proper labeling improves the readability of visualizations.
+* Pandas simplifies data manipulation and analysis.
+* Series is a one-dimensional labeled data structure.
+* DataFrame is a two-dimensional tabular data structure.
 
 ## Summary
 
-Day 7 introduced Matplotlib and its essential plotting capabilities. Data visualization helps identify trends and patterns before applying Machine Learning models.
+Day 7 introduced the Pandas library and its core data structures, which are essential for handling datasets in Machine Learning.

@@ -1,4 +1,4 @@
-# Day 6 - Introduction to Pandas
+# Day 6 - NumPy Operations
 
 ## Date
 
@@ -6,49 +6,49 @@ Day 6 of ML Training
 
 ## Objective
 
-To understand the basics of the Pandas library and learn how to work with Series and DataFrames for data manipulation.
+To learn various operations that can be performed on NumPy arrays.
 
 ## Topics Covered
 
-### 1. Introduction to Pandas
+### 1. Array Indexing and Slicing
 
-* What is Pandas?
-* Importing the Pandas library
-* Applications of Pandas in data analysis and Machine Learning
+* Accessing array elements
+* Slicing one-dimensional and two-dimensional arrays
 
-### 2. Series
+### 2. Mathematical Operations
 
-* Creating a Series
-* Accessing elements
-* Basic attributes and methods
+* Addition
+* Subtraction
+* Multiplication
+* Division
 
-### 3. DataFrame
+### 3. Aggregate Functions
 
-* Creating a DataFrame
-* Understanding rows and columns
-* Viewing data using common functions
+* `sum()`
+* `mean()`
+* `min()`
+* `max()`
+* `std()`
 
-### 4. Simple Operations
+### 4. Array Manipulation
 
-* Selecting rows and columns
-* Accessing data using labels and indices
-* Adding and deleting columns
-* Basic descriptive functions such as `head()`, `tail()`, `info()`, and `describe()`
+* Reshaping arrays
+* Flattening arrays
+* Transposing arrays
 
 ## Activities Performed
 
-* Imported the Pandas library.
-* Created Series and DataFrames.
-* Practiced selecting and accessing data.
-* Performed simple operations on DataFrames.
+* Performed arithmetic operations on arrays.
+* Practiced indexing and slicing.
+* Calculated statistical measures using aggregate functions.
+* Manipulated array dimensions.
 
 ## Key Learnings
 
-* Pandas is a powerful library for data manipulation and analysis.
-* A Series represents a one-dimensional labeled array.
-* A DataFrame is a two-dimensional tabular data structure.
-* Basic operations help in exploring and understanding datasets efficiently.
+* NumPy supports vectorized operations, making computations faster.
+* Array indexing and slicing simplify data access.
+* Aggregate functions are useful for analyzing numerical datasets.
 
 ## Summary
 
-Day 6 introduced the fundamentals of the Pandas library. The session focused on creating and working with Series and DataFrames, along with performing simple operations that form the foundation of data analysis and Machine Learning.
+Day 6 focused on performing mathematical operations and manipulating NumPy arrays. These operations are widely used during data preprocessing and Machine Learning.

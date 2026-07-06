@@ -1,4 +1,4 @@
-# Day 9 - Exploratory Data Analysis (EDA): Univariate Analysis
+# Day 9 - Matplotlib
 
 ## Date
 
@@ -6,51 +6,43 @@ Day 9 of ML Training
 
 ## Objective
 
-To understand univariate analysis and explore the distribution of individual variables.
+To learn the basics of data visualization using the Matplotlib library.
 
 ## Topics Covered
 
-### 1. Introduction to EDA
+### 1. Introduction to Matplotlib
 
-* Purpose of Exploratory Data Analysis
-* Types of variables
+* Importing Matplotlib
+* Creating figures
+* Basic plotting
 
-### 2. Univariate Analysis
+### 2. Types of Plots
 
-* Numerical variables
-* Categorical variables
-
-### 3. Visualization Techniques
-
-* Histogram
-* KDE Plot
-* Box Plot
-* Count Plot
-* Pie Chart
+* Line Plot
 * Bar Chart
+* Scatter Plot
+* Histogram
 
-### 4. Statistical Measures
+### 3. Plot Customization
 
-* Mean
-* Median
-* Mode
-* Variance
-* Standard Deviation
-* Skewness
+* Titles
+* Axis labels
+* Legends
+* Grid
+* Figure size
 
 ## Activities Performed
 
-* Analyzed individual features of datasets.
-* Generated univariate plots.
-* Calculated summary statistics.
-* Identified data distribution and outliers.
+* Created various plots using sample datasets.
+* Customized graphs with titles, labels, and legends.
+* Visualized numerical and categorical data.
 
 ## Key Learnings
 
-* Univariate analysis focuses on one variable at a time.
-* Visualizations help understand data distribution.
-* Statistical measures summarize important characteristics of data.
+* Matplotlib is the foundation of data visualization in Python.
+* Different chart types help analyze different kinds of data.
+* Well-designed visualizations improve data interpretation.
 
 ## Summary
 
-Day 9 introduced univariate exploratory data analysis, which helps understand the properties and distribution of individual variables before model building.
+Day 9 introduced Matplotlib and its plotting capabilities. Data visualization plays a crucial role in understanding data before applying Machine Learning algorithms.

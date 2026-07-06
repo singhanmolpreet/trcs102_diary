@@ -1,4 +1,4 @@
-# Day 10 - Exploratory Data Analysis (EDA): Bivariate and Multivariate Analysis
+# Day 10 - Seaborn
 
 ## Date
 
@@ -6,47 +6,43 @@ Day 10 of ML Training
 
 ## Objective
 
-To study relationships between two or more variables using statistical methods and visualizations.
+To learn statistical data visualization using the Seaborn library.
 
 ## Topics Covered
 
-### 1. Bivariate Analysis
+### 1. Introduction to Seaborn
 
-* Numerical vs Numerical
-* Numerical vs Categorical
-* Categorical vs Categorical
+* Importing Seaborn
+* Relationship between Seaborn and Matplotlib
 
-### 2. Multivariate Analysis
+### 2. Common Plots
 
-* Analyzing multiple variables simultaneously
-* Identifying relationships and trends
-
-### 3. Visualization Techniques
-
-* Scatter Plot
-* Line Plot
+* Count Plot
 * Box Plot
+* Violin Plot
+* Histogram
+* KDE Plot
+* Scatter Plot
 * Heatmap
-* Pair Plot
 
-### 4. Correlation Analysis
+### 3. Plot Styling
 
-* Correlation Matrix
-* Correlation Heatmap
+* Themes
+* Color palettes
+* Figure customization
 
 ## Activities Performed
 
-* Compared relationships between variables.
-* Created scatter plots and pair plots.
-* Generated correlation heatmaps.
-* Interpreted relationships between features.
+* Created statistical plots using Seaborn.
+* Compared different visualization techniques.
+* Explored sample datasets using Seaborn.
 
 ## Key Learnings
 
-* Bivariate analysis examines relationships between two variables.
-* Multivariate analysis provides a deeper understanding of complex datasets.
-* Correlation analysis helps identify feature dependencies useful for Machine Learning.
+* Seaborn simplifies statistical visualization.
+* Built-in themes create attractive plots.
+* Statistical plots help understand data distributions and relationships.
 
 ## Summary
 
-Day 10 focused on bivariate and multivariate exploratory data analysis. These techniques help uncover relationships among variables, making them valuable for feature selection and model development.
+Day 10 focused on Seaborn, a powerful visualization library built on Matplotlib, making exploratory data analysis more effective and visually appealing.

@@ -1,4 +1,4 @@
-# Day 8 - Seaborn
+# Day 8 - Pandas Data Handling
 
 ## Date
 
@@ -6,43 +6,48 @@ Day 8 of ML Training
 
 ## Objective
 
-To learn statistical data visualization using the Seaborn library.
+To learn common data manipulation techniques using Pandas.
 
 ## Topics Covered
 
-### 1. Introduction to Seaborn
+### 1. Reading and Writing Data
 
-* Importing Seaborn
-* Relationship between Seaborn and Matplotlib
+* Reading CSV files
+* Saving DataFrames
 
-### 2. Common Plots
+### 2. Data Exploration
 
-* Count Plot
-* Box Plot
-* Violin Plot
-* Histogram
-* KDE Plot
-* Scatter Plot
-* Heatmap
+* `head()`
+* `tail()`
+* `info()`
+* `describe()`
 
-### 3. Plot Styling
+### 3. Data Manipulation
 
-* Themes
-* Color palettes
-* Figure customization
+* Filtering rows
+* Sorting data
+* Handling missing values
+* Renaming columns
+
+### 4. Basic Statistics
+
+* Mean
+* Median
+* Count
+* Value Counts
 
 ## Activities Performed
 
-* Created statistical plots using Seaborn.
-* Compared different visualization techniques.
-* Explored sample datasets using Seaborn.
+* Loaded datasets from CSV files.
+* Explored dataset information.
+* Filtered and sorted data.
 
 ## Key Learnings
 
-* Seaborn simplifies statistical visualization.
-* Built-in themes create attractive plots.
-* Statistical plots help understand data distributions and relationships.
+* Pandas provides powerful tools for data cleaning and exploration.
+* Understanding dataset structure is important before analysis.
+* Data preprocessing is a key step in Machine Learning.
 
 ## Summary
 
-Day 8 focused on Seaborn, a powerful visualization library built on Matplotlib, making exploratory data analysis more effective and visually appealing.
+Day 8 focused on data exploration and manipulation using Pandas. These skills are fundamental for preparing datasets for analysis and Machine Learning models.
