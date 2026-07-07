@@ -23,7 +23,7 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 11 | 3 July 2026 (Friday)     | Exploratory Data Analysis (EDA) – Univariate Analysis                               | [Day 11](DayReport/Day11.md) |
 | Day 12 | 4 July 2026 (Saturday)   | Exploratory Data Analysis (EDA) – Bivariate & Multivariate Analysis                 | [Day 12](DayReport/Day12.md) |
 | Day 13 | 6 July 2026 (Monday)   | Encoding Techniques: One Hot Encoding, Label Encoding, Ordinal Encoding               | [Day 13](DayReport/Day13.md) |
-| Day 14 | 7 July 2026 (Tuesday)   | Feature Scaling and Feature Selection               | [Day 14](DayReport/Day14.md) |
+| Day 14 | 7 July 2026 (Tuesday)   | Feature Scaling and Feature Selection                                                | [Day 14](DayReport/Day14.md) |
 
 ## Learning Goals
 
