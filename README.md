@@ -26,7 +26,7 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 14 | 7 July 2026 (Tuesday)   | Feature Scaling and Feature Selection                                                | [Day 14](DayReport/Day14.md) |
 | Day 15 | 8 July 2026 (Wednesday)   | Feature Scaling and Feature Selection                                              | [Day 15](DayReport/Day15.md) |
 | Day 16 | 9 July 2026 (Thursday)   | Introduction to Linear Regression and Model Evaluation                              | [Day 16](DayReport/Day16.md) |
-
+| Day 17 | 10 July 2026 (Friday)   | Polynomial and Logistic Regression                                                  | [Day 17](DayReport/Day17.md) |
 
 ## Learning Goals
 
