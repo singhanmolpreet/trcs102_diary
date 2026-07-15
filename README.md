@@ -28,8 +28,9 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 16 | 9 July 2026 (Thursday)   | Introduction to Linear Regression and Model Evaluation                              | [Day 16](DayReport/Day16.md) |
 | Day 17 | 10 July 2026 (Friday)   | Polynomial and Logistic Regression                                                  | [Day 17](DayReport/Day17.md) |
 | Day 18 | 11 July 2026 (Saturday)  | Decision Tree Classifier and Confusion Matrix                                      | [Day 18](DayReport/Day18.md) |
-| Day 19 | 12 July 2026 (Monday)  | SVM and KNN                                                                         | [Day 19](DayReport/Day19.md) |
-| Day 20 | 13 July 2026 (Tuesday)  | Introduction to Deep Learning, Activation Functions,Perceptron                                                              | [Day 20](DayReport/Day20.md) |
+| Day 19 | 13 July 2026 (Monday)  | SVM and KNN                                                                         | [Day 19](DayReport/Day19.md) |
+| Day 20 | 14 July 2026 (Tuesday)  | Introduction to Deep Learning, Activation Functions,Perceptron                                                              | [Day 20](DayReport/Day20.md) |
+| Day 21 | 15 July 2026 (Wednesday)  |                                                               | [Day 21](DayReport/Day21.md) |
 
 ## Learning Goals
 
