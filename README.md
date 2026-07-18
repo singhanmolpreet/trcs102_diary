@@ -31,8 +31,9 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 19 | 13 July 2026 (Monday)  | SVM and KNN                                                                         | [Day 19](DayReport/Day19.md) |
 | Day 20 | 14 July 2026 (Tuesday)  | Introduction to Deep Learning, Activation Functions, Perceptron                                                              | [Day 20](DayReport/Day20.md) |
 | Day 21 | 15 July 2026 (Wednesday)  |  Artificial Neural Networks (ANN)                                                           | [Day 21](DayReport/Day21.md) |
-| Day 22 | 16 July 2026 (Wednesday)  |  ML Project                                                          | [Day 22](DayReport/Day21.md) |
-| Day 23 | 15 July 2026 (Wednesday)  |  ML Project                                                           | [Day 21](DayReport/Day21.md) |
+| Day 22 | 16 July 2026 (Thursday)  |  ML Project                                                          | [Day 22](DayReport/Day21.md) |
+| Day 23 | 15 July 2026 (Friday)  |  ML Project                                                           | [Day 21](DayReport/Day21.md) |
+
 ## Learning Goals
 
 * Develop proficiency in Python programming.
