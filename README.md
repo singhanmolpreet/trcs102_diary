@@ -34,6 +34,7 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 22 | 16 July 2026 (Thursday)  |  ML Project                                                          | [Day 22](DayReport/Day22.md) |
 | Day 23 | 15 July 2026 (Friday)  |  ML Project                                                           | [Day 23](DayReport/Day23.md) |
 
+
 ## Learning Goals
 
 * Develop proficiency in Python programming.
