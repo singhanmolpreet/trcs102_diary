@@ -32,7 +32,8 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 20 | 14 July 2026 (Tuesday)  | Introduction to Deep Learning, Activation Functions, Perceptron                                                              | [Day 20](DayReport/Day20.md) |
 | Day 21 | 15 July 2026 (Wednesday)  |  Artificial Neural Networks (ANN)                                                           | [Day 21](DayReport/Day21.md) |
 | Day 22 | 16 July 2026 (Thursday)  |  ML Project                                                          | [Day 22](DayReport/Day22.md) |
-| Day 23 | 15 July 2026 (Friday)  |  ML Project                                                           | [Day 23](DayReport/Day23.md) |
+| Day 23 | 17 July 2026 (Friday)  |  ML Project                                                           | [Day 23](DayReport/Day23.md) |
+| Day 24 | 18 July 2026 (Friday)  |  ANN Project                                                           | [Day 24](DayReport/Day24.md) |
 
 
 ## Learning Goals
