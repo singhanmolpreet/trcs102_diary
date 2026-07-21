@@ -34,7 +34,8 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 22 | 16 July 2026 (Thursday)  |  ML Project                                                          | [Day 22](DayReport/Day22.md) |
 | Day 23 | 17 July 2026 (Friday)  |  ML Project                                                           | [Day 23](DayReport/Day23.md) |
 | Day 24 | 18 July 2026 (Friday)  |  ANN Project                                                           | [Day 24](DayReport/Day24.md) |
-| Day 25 | 20 July 2026 (Monday)  |  Introduction to CNN                                                  | [Day 25](DayReport/Day25.md) |
+| Day 25 | 20 July 2026 (Monday)  |  Introduction to CNN, basic CNN model to identify cat and dog images    | [Day 25](DayReport/Day25.md) |
+| Day 25 | 21 July 2026 (Tuesday)  |  Introduction to OpenCV, basic methods                                   | [Day 26](DayReport/Day26.md) |
 
 
 ## Learning Goals
