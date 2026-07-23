@@ -37,6 +37,7 @@ The objective of this training is to build a strong foundation in **Python progr
 | Day 25 | 20 July 2026 (Monday)  |  Introduction to CNN, basic CNN model to identify cat and dog images    | [Day 25](DayReport/Day25.md) |
 | Day 26 | 21 July 2026 (Tuesday)  |  Introduction to OpenCV and perform fundamental image processing operations using Python.                                 | [Day 26](DayReport/Day26.md) |
 | Day 27 | 22 July 2026 (Wednesday)  |  Image Transformation using OpenCV                              | [Day 27](DayReport/Day27.md) |
+| Day 28 | 23 July 2026 (Thursday)  |                                | [Day 28](DayReport/Day28.md) |
 
 
 ## Learning Goals
