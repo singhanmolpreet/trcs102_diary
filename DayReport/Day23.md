@@ -69,7 +69,7 @@ Developed an interactive Streamlit application featuring:
 
 ## Project Repository
 
-**GitHub:** https://github.com/singhanmolpreet/car_price_prediction
+**GitHub:** https://github.com/singhanmolpreet/car_price_prediction 
 
 ## Summary
 
